@@ -123,6 +123,7 @@ button:hover {
   text-align: center;
   width: 70%;
   animation: fadeIn 2s ease-in-out;
+  text-shadow: 0 0 20px pink, 0 0 40px red;
 }
 
 @keyframes fadeIn {
